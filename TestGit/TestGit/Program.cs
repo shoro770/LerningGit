@@ -7,7 +7,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("i'm lerning Git);
+            Console.WriteLine("i'm lerning Git");
         }
     }
 }
