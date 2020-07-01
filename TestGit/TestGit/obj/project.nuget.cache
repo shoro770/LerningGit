@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TXUI3gWkUw0kBuYo2SK7g1eaa5NVhI3JfiKmd+DrhbVqJPwH9GW/dZU9mII6P+LCMQ6hpd3V1VqBIxTBjHllZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shoro\\source\\repos\\Git\\myTestGit\\TestGit\\TestGit\\TestGit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shoro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
